@@ -1,0 +1,18 @@
+{
+  "name": "botv2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dsteem": "^0.11.3",
+    "steem": "^0.7.11",
+    "steem-tx": "^3.0.0"
+  }
+}
